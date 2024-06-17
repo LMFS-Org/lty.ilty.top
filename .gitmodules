@@ -1,0 +1,3 @@
+[submodule "lingmo"]
+	path = lingmo
+	url = https://github.com/lingmoos-testing/lingmo-arch-repo
