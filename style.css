@@ -8,8 +8,11 @@
 }
 body {
 	background:#000;
-    color: #bdbdbd;
+    	color: #bdbdbd;
 	font-family: "Consolas","Lucida Console","DejaVu Sans Mono Book",monospace;
 	font-size: 0.875em;
 	margin: 0em;
+}
+a {
+	color: #04a5e5;
 }
