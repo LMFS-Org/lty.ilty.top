@@ -16,3 +16,6 @@ body {
 a {
 	color: #04a5e5;
 }
+a:visited {
+        color: #8839ef;
+}
